@@ -1,7 +1,6 @@
 <template>
   <p>
     <span v-if="4 >= 3">
-      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</span
-    >
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</span>
   </p>
 </template>
